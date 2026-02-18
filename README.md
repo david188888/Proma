@@ -67,6 +67,13 @@ MiniMax、Kimi（Moonshot）和智谱 GLM 使用专用 API 端点 — 选择供�
 - **构建** — Vite（渲染进程）+ esbuild（主进程/预加载）
 - **语言** — TypeScript
 
+## 上游功能追踪
+
+本仓库追踪来自上游 [ErlichLiu/Proma](https://github.com/ErlichLiu/Proma) 的功能开发。查看 [上游功能文档](./docs/UPSTREAM_FEATURES.md) 了解详情。
+
+当前追踪的功能：
+- **可视化统计** — [Issue #13](https://github.com/ErlichLiu/Proma/issues/13) → [PR #30](https://github.com/ErlichLiu/Proma/pull/30)：Token 使用量统计和成本预估
+
 ## 致谢
 
 Proma 的诞生离不开这些优秀的开源项目：
