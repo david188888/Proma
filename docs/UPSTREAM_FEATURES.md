@@ -33,6 +33,12 @@
 - Anthropic、OpenAI、Google 等主流 Provider
 - 可配置价格表用于成本预估
 
+## 如何关联 Issue 和 PR
+
+如果您想在 Issue #13 中提及 PR #30，请查看操作指南：
+- 📖 [完整教程](./HOW_TO_LINK_ISSUE_PR.md)
+- ⚡ [快速参考](./QUICK_REFERENCE.md)
+
 ## 同步计划
 
 待上游 PR #30 合并后，评估同步到本仓库的可行性。
