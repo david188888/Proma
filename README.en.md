@@ -67,6 +67,10 @@ MiniMax, Kimi (Moonshot), and Zhipu GLM use dedicated API endpoints — these ar
 - **Build** — Vite (renderer) + esbuild (main/preload)
 - **Language** — TypeScript
 
+## Documentation
+
+- [Visualization Statistics Feature](./docs/VISUALIZATION_STATISTICS.md) — Linking Issue #13 and PR #30
+
 ## Credits
 
 Proma is built on the shoulders of these great projects:

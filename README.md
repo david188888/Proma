@@ -67,6 +67,10 @@ MiniMax、Kimi（Moonshot）和智谱 GLM 使用专用 API 端点 — 选择供�
 - **构建** — Vite（渲染进程）+ esbuild（主进程/预加载）
 - **语言** — TypeScript
 
+## 贡献文档
+
+- [可视化统计功能说明](./docs/VISUALIZATION_STATISTICS.md) — Issue #13 和 PR #30 的关联说明
+
 ## 致谢
 
 Proma 的诞生离不开这些优秀的开源项目：
